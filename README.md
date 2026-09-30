@@ -25,5 +25,6 @@ Built while exploring the agentic AI pattern — structuring an app around tools
 
 ##### Example Usage
 
-1. ![Screenshot 1](docs\pic1.png)
-2. ![Screenshot 2](docs\pic2.png)
+![Screenshot 1](docs/pic1.png)
+
+![Screenshot 2](docs/pic2.png)
